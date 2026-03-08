@@ -1,4 +1,4 @@
-SISTEMA INTEGRAL DE INTELIGENCIA DE VENTAS & FORECASTING PRO
+SISTEMA INTEGRAL DE INTELIGENCIA DE VENTAS & FORECASTING
 
 DESCRIPCION:
 Este proyecto es una solucion integral de Ciencia de Datos aplicada al 
@@ -47,3 +47,4 @@ VALOR AGREGADO:
 - Identificacion de tendencias de mercado y picos de venta antes de que ocurran.
 - Optimizacion de toma de decisiones mediante velocimetro de metas (KPIs).
 - Pipeline completo: desde la generacion del dato hasta el Dashboard final.
+
